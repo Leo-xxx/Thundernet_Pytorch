@@ -153,3 +153,53 @@ python webcam.py --min-image-size 800
 如果出错可以来这里找找有没有同病相怜的：
 
 [官方bug讨论](https://github.com/facebookresearch/maskrcnn-benchmark/issues)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# [Solved] dcn_v2_cuda.obj : error LNK2001: unresolved external symbol state caused by extern THCState *state; #14
+
+ Closed
+
+[ausk](https://github.com/ausk)  
+
+## Comments
+
+[![@ausk](https://avatars1.githubusercontent.com/u/4545060?s=88&v=4)](https://github.com/ausk)
+
+ 
+
+### **[ausk](https://github.com/ausk)** commented [on 18 Apr](https://github.com/CharlesShang/DCNv2/issues/14#issue-434688949) • edited 
+
+
+
+[![@ausk](https://avatars1.githubusercontent.com/u/4545060?s=88&v=4)](https://github.com/ausk)
+
+ 
+
+Author
+
+### **[ausk](https://github.com/ausk)** commented [on 18 Apr](https://github.com/CharlesShang/DCNv2/issues/14#issuecomment-484459899) • edited 
+
+
+
+
+
+ https://github.com/CharlesShang/DCNv2/issues/14 
